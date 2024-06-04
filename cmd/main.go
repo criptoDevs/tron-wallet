@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	tronWallet "github.com/ranjbar-dev/tron-wallet"
-	"github.com/ranjbar-dev/tron-wallet/enums"
+	tronWallet "github.com/criptoDevs/tron-wallet"
+	"github.com/criptoDevs/tron-wallet/enums"
 )
 
 func main() {

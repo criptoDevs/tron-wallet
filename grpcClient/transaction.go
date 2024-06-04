@@ -2,9 +2,9 @@ package grpcClient
 
 import (
 	"fmt"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient/proto/api"
-	"github.com/ranjbar-dev/tron-wallet/grpcClient/proto/core"
-	"github.com/ranjbar-dev/tron-wallet/util"
+	"github.com/criptoDevs/tron-wallet/grpcClient/proto/api"
+	"github.com/criptoDevs/tron-wallet/grpcClient/proto/core"
+	"github.com/criptoDevs/tron-wallet/util"
 	"google.golang.org/protobuf/proto"
 )
 
